@@ -1,0 +1,8 @@
+Counter Culture,Big Trouble,full city+,blend,caramel,7
+Roadmap Coffeeworks,Blue Ridge,full city+,blend,"chocolate, cherry",8
+Roadmap Coffeeworks,El Mirador Pacamara,city+,El Salvador,wine,7
+Good Brothers,Mata de Minas,medium,Brazil,chocolate,8
+Plowshares,Santa Isabel,medium,Guatemala,chocolate,8
+Oak and Bond,Vista Al Bosque,medium,Guatemala,"chocolate, vanilla",6
+Oak and Bond,Manos Juntas Anaerobic,medium,Colombia,strawberry,8
+Oak and Bond,Buesaco,medium,Colombia,"cherry, honeysuckle",6
